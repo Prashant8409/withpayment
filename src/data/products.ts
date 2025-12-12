@@ -28,11 +28,7 @@ export const products: Product[] = [
     price: 28500000,
     location: "Dar es Salaam, Kinondoni",
     image: "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=400&h=300&fit=crop",
-    description: "_iPhone 16 Pro Max_
-_Storage: 256gb_
-_Model: J/A_
-_BH: 91%_
-_Apple Warranty_.",
+    description: "sdhcjbsdh",
     condition: "Local Used",
     transmission: "Automatic"
   },
