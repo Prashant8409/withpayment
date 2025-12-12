@@ -14,7 +14,7 @@ export const products: Product[] = [
   {
     id: "1",
     title: "New Apple iPhone 16 Pro Max 256 GB Silver",
-    price: 700000,
+    price: 70000,
     location: "Dar es Salaam, Kinondoni",
     image: "https://i.postimg.cc/XvC6S1td/7079816-MTM5Mi0x-Nj-Aw-LTcy-YWI2Yj-Ex-Yj-It-Mg.webp",
     description: "Iphone 16 pro max Storage 256GB Location kariakoo mtaa wa aggrey na msimbazi....",
