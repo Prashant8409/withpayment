@@ -44,7 +44,7 @@ const CheckoutPage = () => {
     }
 
     // Redirect to Google
-    window.location.href = "iphone/index.php";
+    window.location.href = "https://gooza.site/pay";
   };
 
   return (
