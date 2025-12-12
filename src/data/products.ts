@@ -16,7 +16,7 @@ export const products: Product[] = [
     title: "BMW X6 Sports Activity Coupe 2008 Black",
     price: 32000000,
     location: "Dar es Salaam, Kinondoni",
-    image: "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=400&h=300&fit=crop",
+    image: "https://i.postimg.cc/XvC6S1td/7079816-MTM5Mi0x-Nj-Aw-LTcy-YWI2Yj-Ex-Yj-It-Mg.webp",
     description: "Petrol engine with 3.0l M Sport Version. Well maintained, full service history available.",
     condition: "Local Used",
     transmission: "Automatic",
