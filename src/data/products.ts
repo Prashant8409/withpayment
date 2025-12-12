@@ -13,13 +13,13 @@ export interface Product {
 export const products: Product[] = [
   {
     id: "1",
-    title: "BMW X6 Sports Activity Coupe 2008 Black",
-    price: 32000000,
+    title: "New Apple iPhone 16 Pro Max 256 GB Silver",
+    price: 700000,
     location: "Dar es Salaam, Kinondoni",
     image: "https://i.postimg.cc/XvC6S1td/7079816-MTM5Mi0x-Nj-Aw-LTcy-YWI2Yj-Ex-Yj-It-Mg.webp",
-    description: "Petrol engine with 3.0l M Sport Version. Well maintained, full service history available.",
+    description: "Iphone 16 pro max Storage 256GB Location kariakoo mtaa wa aggrey na msimbazi....",
     condition: "Local Used",
-    transmission: "Automatic",
+    // transmission: "Automatic",
     sellerYears: "5+ Years on Jiji"
   },
   {
